@@ -1,4 +1,3 @@
-/*
 百度贴吧签到脚本
 
 脚本修改自: https://github.com/sazs34/TaskConfig
